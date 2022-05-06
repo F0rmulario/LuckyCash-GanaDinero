@@ -1,3 +1,3 @@
-# LuckyCash-GanaDinero
+# LuckyCash
 
-<h3>https://playgogle.github.io/LuckyCash-GanaDinero/<h3>
+<h3>https://playgogle.github.io/LuckyCash-GanaDinero<h3>
